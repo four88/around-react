@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/around-react/static/css/main.5932ccb2.css",
-    "main.js": "/around-react/static/js/main.c3d43555.js",
+    "main.js": "/around-react/static/js/main.b999eb7b.js",
     "static/js/787.1c78f32b.chunk.js": "/around-react/static/js/787.1c78f32b.chunk.js",
     "static/media/Inter-Medium.woff?v=3.12": "/around-react/static/media/Inter-Medium.9534203f443096c3ec9b.woff",
     "static/media/Inter-Black.woff?v=3.12": "/around-react/static/media/Inter-Black.6f3f8d238cb5ec6a7884.woff",
@@ -12,17 +12,17 @@
     "static/media/icon.svg": "/around-react/static/media/icon.3826c074a1b94b101e38893244f97c31.svg",
     "index.html": "/around-react/index.html",
     "static/media/delete_icon.svg": "/around-react/static/media/delete_icon.8cb59aa98088a1653f62.svg",
-    "static/media/active_button.svg": "/around-react/static/media/active_button.226461bd64622361ffb2.svg",
+    "static/media/active_button.svg": "/around-react/static/media/active_button.226461bd64622361ffb2817e4ceb369b.svg",
     "static/media/Close_icon.svg": "/around-react/static/media/Close_icon.910c81e7387e24f6f846.svg",
     "static/media/edited_button.svg": "/around-react/static/media/edited_button.8667ac4a523e8fc42e59.svg",
     "static/media/edit-avatar.svg": "/around-react/static/media/edit-avatar.a086f758840ae814ecde.svg",
     "static/media/add_button.svg": "/around-react/static/media/add_button.d86bb2edc2f6eadb96b7.svg",
     "main.5932ccb2.css.map": "/around-react/static/css/main.5932ccb2.css.map",
-    "main.c3d43555.js.map": "/around-react/static/js/main.c3d43555.js.map",
+    "main.b999eb7b.js.map": "/around-react/static/js/main.b999eb7b.js.map",
     "787.1c78f32b.chunk.js.map": "/around-react/static/js/787.1c78f32b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5932ccb2.css",
-    "static/js/main.c3d43555.js"
+    "static/js/main.b999eb7b.js"
   ]
 }
